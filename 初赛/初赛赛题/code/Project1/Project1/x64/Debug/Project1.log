@@ -1,0 +1,8 @@
+﻿  lesson_1.cpp
+c:\users\lee\desktop\code\华为软件精英挑战赛\初赛\初赛赛题\code\project1\lesson_1.cpp(16): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\lee\desktop\code\华为软件精英挑战赛\初赛\初赛赛题\code\project1\lesson_1.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\lee\desktop\code\华为软件精英挑战赛\初赛\初赛赛题\code\project1\lesson_1.cpp(83): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lee\desktop\code\华为软件精英挑战赛\初赛\初赛赛题\code\project1\lesson_1.cpp(92): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lee\desktop\code\华为软件精英挑战赛\初赛\初赛赛题\code\project1\lesson_1.cpp(142): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lee\desktop\code\华为软件精英挑战赛\初赛\初赛赛题\code\project1\lesson_1.cpp(34): warning C4715: “Path::operator<”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\lee\Desktop\code\华为软件精英挑战赛\初赛\初赛赛题\code\Project1\x64\Debug\Project1.exe
